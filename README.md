@@ -1,102 +1,69 @@
 <div align="center">
 
-# 🌌 Hey, I'm Life
+# Life
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+exist.;Turning+ideas+into+reality.;Always+learning.+Always+creating." />
+### Building software, one project at a time.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=7F5AF0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source;Always+Learning" />
 
 <br>
 
-> *"We're all made of stardust. I just happen to write code with mine."* ✨
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=lifev2&style=for-the-badge&color=7C3AED" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=lifev2&style=flat-square&color=7F5AF0" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About
 
-Most developers will tell you about the languages they know.
+I enjoy building software that solves real problems.
 
-I'd rather tell you **why I build.**
+Most of my time goes into learning new technologies, experimenting with ideas, and creating tools that people can actually use. I'm always interested in understanding how things work, whether that's low-level systems, web applications, or infrastructure.
 
-I love taking random ideas that pop into my head at 2 AM and turning them into something real. Whether that's a web app, an automation tool, a game, or something completely ridiculous.
-
-Programming, to me, feels like exploring space.
-
-Every project starts with a tiny spark.
-
-Eventually it becomes an entire universe.
-
-Outside of coding you'll usually find me:
-
-- ☕ Drinking way too much coffee
-- 🌌 Looking at space photos
-- 🎧 Listening to music while coding
-- 📚 Learning something new
-- 💡 Building side projects nobody asked for
+When I'm not working on a project, I'm usually reading documentation, exploring new tech, or contributing to something open source.
 
 ---
 
-# 🛰 Current Mission
+## Current
 
 ```txt
-🌍 Location        Somewhere on Earth
-🚀 Status          Building cool things
-🌱 Learning        Whatever catches my attention
-🤝 Open To         Collaboration & Open Source
-🧠 Philosophy      Stay curious.
+Status      Building
+Learning    Whatever interests me next
+Focus       Full Stack Development
+Interests   Systems • Web • Open Source • AI
 ```
 
 ---
 
-# 🛠 Tech Universe
+## Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,cpp,java,html,css" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,html,css" />
-
-### Frameworks
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,svelte" />
 
-### Databases
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase" />
 
-### Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,bash,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,vercel" />
 
 </div>
 
 ---
 
-# 🌠 Featured Projects
-
-> The projects below are little galaxies.
-> Some are tiny.
-> Some are still expanding.
-
-- 🚀 Building useful tools
-- 🌌 Exploring new technologies
-- 🤖 Automation
-- 🎮 Fun experiments
-- 📦 Open source
-
----
-
-# 📊 GitHub Orbit
+## GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lifev2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lifev2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifev2&layout=compact&theme=tokyonight&hide_border=true&border_radius=14"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifev2&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -104,73 +71,40 @@ Outside of coding you'll usually find me:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lifev2&theme=tokyonight&hide_border=true&border_radius=14"/>
+<img src="https://streak-stats.demolab.com?user=lifev2&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 ---
 
-# 🌌 Contribution Galaxy
+## Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lifev2&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lifev2&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# 🐍 Cosmic Trail
+## Projects
 
-<div align="center">
+Most of my repositories are experiments, tools, or ideas that turned into something useful.
 
-<img src="https://raw.githubusercontent.com/lifev2/lifev2/output/github-contribution-grid-snake-dark.svg" />
+Some are polished.
 
-</div>
+Some are still being worked on.
 
-> *(Requires a GitHub Action to generate.)*
-
----
-
-# 🌙 Favorite Quote
-
-<div align="center">
-
-> "Somewhere, something incredible is waiting to be known."
-
-— Carl Sagan
-
-</div>
+All of them taught me something.
 
 ---
 
-# 📡 Let's Connect
+## Contact
 
 <div align="center">
 
 <a href="https://github.com/lifev2">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-```
-           .        *        .
-      *        .         ✦
-               🌍
-          .         🚀
-     *             .
-            ⭐
-```
-
-### Thanks for stopping by.
-
-Hope you find something interesting while exploring.
-
-⭐ If you like one of my projects, consider leaving it a star.
 
 </div>
