@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
+<h1 align="center">Hi </h1>
 <h3 align="center">I enjoy building things that don't make much sense but work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifev2&label=Profile%20views&color=009afa&style=flat" alt="lifev2" /> </p>
